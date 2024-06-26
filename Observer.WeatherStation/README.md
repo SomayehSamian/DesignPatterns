@@ -25,7 +25,8 @@ To use the Observer Pattern in your project, follow these steps:
 
 
 
-![SequenceDiagram (1)](https://github.com/SomayehSamian/DesignPatterns/assets/149526207/147dcb41-9b0d-48e5-a808-bfdb2a50bbd7)
+![SequenceDiagram (2)](https://github.com/SomayehSamian/DesignPatterns/assets/149526207/36c1625a-7011-4802-8a6f-ccd5a86c478e)
+
 
 ## References
   eBook: Design Patterns Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, et al.
