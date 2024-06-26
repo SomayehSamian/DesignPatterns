@@ -59,4 +59,46 @@ To run any design pattern example, navigate to the respective directory and exec
 ```bash
 cd Singleton
 dotnet run
+```
 
+## Implemented Design Patterns
+This project includes implementations of the following design patterns:
+
+Creational Patterns
+Singleton
+Factory
+Abstract Factory
+Builder
+Prototype
+Structural Patterns
+Adapter
+Bridge
+Composite
+Decorator
+Facade
+Flyweight
+Proxy
+Behavioral Patterns
+Chain of Responsibility
+Command
+Interpreter
+Iterator
+Mediator
+Memento
+Observer
+State
+Strategy
+Template Method
+Visitor
+Examples and Code Samples
+For each design pattern, one or more examples and code samples are provided. You can explore the files in each directory to understand how to use these patterns. Each directory contains a README.md file with explanations and instructions for running the examples.
+
+## License
+This project is licensed under the MIT License. For more details, see the LICENSE file.
+
+## Contact
+If you have any questions or would like to collaborate, you can reach me at:
+
+SomayeShirzad1400@gmail.com
+
+You can also open an issue in the GitHub repository for any requests or questions.
