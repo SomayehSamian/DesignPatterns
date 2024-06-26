@@ -37,13 +37,13 @@ To use this project, you need to have Git and .NET SDK installed.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/username/design-patterns-csharp.git
+    git clone https://github.com/SomayehSamian/DesignPatterns.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd design-patterns-csharp
+    cd DesignPatterns.git
     ```
 
 3. Restore dependencies:
