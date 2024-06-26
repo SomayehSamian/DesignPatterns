@@ -1,3 +1,4 @@
+
 # Observer Pattern
 
 The Observer Pattern is a behavioral design pattern that defines a one-to-many dependency between objects, so that when one object changes state, all its dependents are notified and updated automatically.
@@ -19,3 +20,13 @@ To use the Observer Pattern in your project, follow these steps:
 3. Create an `IObserver` interface that defines the update method.
 4. Implement the `TVRoom` class that receives updates from the subject.
 
+## UML Class Diagram
+![ClassDiagram](https://github.com/SomayehSamian/DesignPatterns/assets/149526207/def6e7c1-0a95-45a2-98cc-629aa25b45e8)
+
+
+
+![SequenceDiagram (1)](https://github.com/SomayehSamian/DesignPatterns/assets/149526207/147dcb41-9b0d-48e5-a808-bfdb2a50bbd7)
+
+## References
+  eBook: Design Patterns Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, et al.
+  webSite: https://refactoring.guru
